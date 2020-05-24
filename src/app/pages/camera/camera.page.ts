@@ -1,3 +1,10 @@
+/**  Title:   Building an Ionic Framework Camera App 
+*    Author:  Ionic Open Source
+*    Date: 2020
+*    Availability: https://capacitor.ionicframework.com/docs/guides/ionic-framework-app/
+**/
+
+
 import { Component, OnInit } from '@angular/core';
 import { Plugins, CameraResultType, CameraSource } from '@capacitor/core';
 import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser'

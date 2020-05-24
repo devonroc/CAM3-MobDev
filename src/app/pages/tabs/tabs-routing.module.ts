@@ -58,7 +58,8 @@ const routes: Routes = [
                     }
                 ]
             },
-
+//we added an extra rute so we can be able to be redirected to 
+//the page where the camera fuction is implemented
             {
                 path: 'camera',
                 children: [
